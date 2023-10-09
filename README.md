@@ -1,6 +1,6 @@
 # SSVDD_Python
 
-##Subspace Support Vector Data Description model
+## Subspace Support Vector Data Description model
 
 A model which projects the positive class data into lower-dimensional feature space and makes hyper-spherical boundary around positive class while keeping the negative class data out of the boundary.
 
@@ -8,7 +8,7 @@ A model which projects the positive class data into lower-dimensional feature sp
 
 The SVDD model is based on Support Vector Data Description model and hence, for implementation purpose, we have used the openly available python implementation of [SVDD](https://github.com/iqiukp/SVDD-Python/blob/master/src/BaseSVDD.py). Therefore, add this to the directory before implementing SSVDD.
 
-##Citations
+## Citations
 
 To use any part of this implementation, please cite the following papers.
 
