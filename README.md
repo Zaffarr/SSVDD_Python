@@ -8,6 +8,10 @@ A model which projects the positive class data into lower-dimensional feature sp
 
 The SVDD model is based on Support Vector Data Description model and hence, for implementation purpose, we have used the openly available python implementation of [SVDD](https://github.com/iqiukp/SVDD-Python/blob/master/src/BaseSVDD.py). Therefore, add this to the directory before implementing SSVDD.
 
+## Demo
+
+The demo of SSVDD is given [HERE]().
+
 ## Citations
 
 To use any part of this implementation, please cite the following papers.
