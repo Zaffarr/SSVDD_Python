@@ -10,7 +10,7 @@ The SVDD model is based on Support Vector Data Description model and hence, for 
 
 ## Demo
 
-The demo of SSVDD is given [HERE]().
+The demo of SSVDD is given [HERE](https://github.com/Zaffarr/Credit_card_fraud_detection_using_SSVDD/tree/main).
 
 ## Citations
 
